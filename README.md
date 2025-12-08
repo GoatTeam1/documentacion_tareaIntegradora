@@ -1,2 +1,16 @@
-# documentacion_tareaIntegradora
-Integración de los resultados obtenidos del proceso de gestión y desarrollo del prototipo, mismo que se trabajó de manera interdisciplinarias con las materias de Programación Web Progresiva, Negociación Empresarial, Gestión del Proceso de Desarrollo de Software , Integradora.
+
+# Sentinel Pi
+### Sentinel PI
+---
+## LOGOTIPOS
+
+<table>
+   <td>Logo de la Aplicacion</td>
+   <td>Logo de empresa</td>
+  <tr>
+    <td>  <img src="img/img2.jpeg" width="80%" style="padding: 10px;" />  </td>
+    <td>   <img src="img/img1.jpeg" width="80%" style="padding: 10px;" /> </td>
+   
+  </tr>
+ 
+</table>
