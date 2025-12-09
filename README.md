@@ -131,3 +131,34 @@ RNF05 – Mantenibilidad del Sistema
 
 ---
 ### HISTORIAS DE USUARIO
+
+1. Monitoreo inmediato
+<p align="justify">Como usuario de la aplicación, quiero visualizar en la pantalla principal un resumen claro de los incidentes más recientes, para mantenerme informado rápidamente sobre la actividad del sistema sin tener que navegar entre varias pantallas.</p>
+
+2. Notificaciones críticas
+<p align="justify">Como usuario, quiero recibir notificaciones instantáneas cuando ocurra una amenaza de alto riesgo, para enterarme de inmediato y tomar una decisión oportuna sin necesidad de revisar constantemente la aplicación.</p>
+
+3. Detalle completo de incidentes
+<p align="justify">Como usuario,quiero poder abrir cada incidente y ver una descripción detallada del evento, para comprender qué ocurrió, cuál fue su origen y qué nivel de severidad representa.</p>
+
+4. Análisis visual de datos
+<p align="justify">Como usuario, quiero consultar gráficas y estadísticas dentro de la aplicación, para interpretar de forma sencilla la cantidad, tipo y frecuencia de incidentes registrados en un periodo de tiempo.</p>
+
+5. Acceso flexible desde cualquier dispositivo
+<p align="justify">Como usuario, quiero poder iniciar sesión tanto en la app móvil como en la versión web progresiva, para acceder a mi información desde el dispositivo que me resulte más conveniente.</p>
+
+6. Historial organizado
+<p align="justify">Como usuario, quiero consultar un historial ordenado de todos los incidentes registrados, para revisar eventos pasados, identificar patrones y entender cómo ha evolucionado la actividad.</p>
+
+7. Uso sin conexión
+<p align="justify">Como usuario, quiero que la aplicación me permita consultar información reciente aun cuando no tenga internet, para mantenerme informado en momentos donde la conexión falle o sea inestable.</p>
+
+8. Interfaz intuitiva
+<p align="justify">Como usuario, quiero que la aplicación tenga una interfaz clara, moderna y fácil de usar, para navegar sin dificultad y encontrar rápidamente las funciones que necesito.</p>
+
+9. Personalización de alertas
+<p align="justify">Como usuario, Quiero configurar qué tipo de alertas deseo recibir (críticas, medias o bajas), para evitar notificaciones innecesarias y enfocarme solo en lo que considero realmente importante.</p>
+
+10. Exportación de información
+<p align="justify">Como usuario, quiero descargar o compartir los reportes generados por la aplicación, para utilizarlos en reuniones, análisis personales o como respaldo documental.</p>
+
