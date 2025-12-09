@@ -67,3 +67,67 @@ Sentinel Pi es un sistema de ciberseguridad basado en Raspberry Pi que funciona 
 | Jazziel Rodríguez López         | [JazzoLopez](https://github.com/JazzoLopez)           | Desarrollador Backend                  |
 
 ---
+### DIAGRAMA DE GANTT
+
+  <img src="img/Gant_sentinelPI.drawio.png" width="80%" style="padding: 10px;" />
+
+---
+### REQUERIMIENTOS FUNCIONALES 
+
+RF01 – Captura de Intentos de Intrusión
+<p align="justify">El sistema debe detectar y registrar automáticamente cada intento de acceso no autorizado realizado hacia los servicios simulados del honeypot en Raspberry Pi.</p>
+
+RF02 – Almacenamiento Centralizado de Datos
+<p align="justify">El sistema debe enviar y almacenar los registros capturados por el honeypot en un servidor central (backend), donde serán organizados para su análisis.
+</p>
+
+RF03 – Panel Web de Visualización
+<p align="justify">El sistema debe proporcionar una interfaz web que muestre en tiempo real los intentos de intrusión mediante tablas, gráficos y estadísticas.</p>
+
+RF04 – Mapa de Ataques en Tiempo Real
+<p align="justify">El sistema debe mostrar un mapa interactivo que geolocalice los intentos de acceso registrados por el honeypot.</p>
+
+RF05 – Sistema de Alertas
+<p align="justify">El sistema debe notificar a los administradores cuando se detecten patrones sospechosos o un volumen anormal de intentos de ataque.</p>
+
+RF06 – Generación de Reportes
+<p align="justify">El sistema debe permitir generar reportes automáticos de actividad (diarios, semanales o mensuales) que incluyan métricas, gráficas y resúmenes de intentos de intrusión.
+</p>
+
+RF07 – Acceso Móvil Multiplataforma
+<p align="justify">El sistema debe permitir que los usuarios consulten la información desde la aplicación móvil y desde la versión progresiva (PWA).
+</p>
+
+RF08 – Gestión de Usuarios y Roles
+<p align="justify">El sistema debe permitir crear, editar y gestionar usuarios con distintos niveles de permiso.</p>
+
+RF09 – Simulación de Servicios Vulnerables
+<p align="justify">El honeypot debe simular servicios (SSH, HTTP, Telnet u otros) para atraer y registrar actividad maliciosa real.</p>
+
+RF10 – Validación y Pruebas de Funcionamiento
+<p align="justify">El sistema debe ejecutarse en un entorno de pruebas controlado que permita simular diferentes escenarios de ataque para validar su correcto funcionamiento antes del despliegue final.</p>
+
+---
+### REQUERIMIENTOS NO FUNCIONALES 
+<p align="justify"></p>
+<p align="justify"></p>
+
+RNF01 – Rendimiento del Sistema
+<p align="justify">El sistema debe procesar hasta 100 eventos por minuto mediante la API, soportar 20 conexiones simultáneas sin degradación significativa y garantizar que al menos el 85% de las respuestas se generen en menos de 1 segundo.</p>
+
+RNF02 – Seguridad de la Plataforma
+<p align="justify">El sistema debe utilizar cifrado TLS, aplicar autenticación mediante tokens JWT, restringir accesos mediante roles administrativos y generar registros de auditoría de accesos y eventos relevantes.</p>
+
+RNF03 – Fiabilidad Operativa
+<p align="justify">El sistema debe mantener un MTBF de 7 días, tolerar desconexiones temporales del honeypot o frontend sin afectar datos, y ejecutar mecanismos de reintento ante fallos de red.</p>
+
+RNF04 – Disponibilidad del Servicio
+<p align="justify">El sistema debe garantizar una disponibilidad mensual del 90%, operar de manera continua 24/7, y permitir mantenimientos programados con una ventana máxima de 1 hora semanal.</p>
+
+RNF05 – Mantenibilidad del Sistema
+
+<p align="justify">El sistema debe estar desarrollado con módulos desacoplados para facilitar ampliaciones, y la API debe contar con documentación técnica generada automáticamente con Swagger.
+</p>
+
+---
+### HISTORIAS DE USUARIO
