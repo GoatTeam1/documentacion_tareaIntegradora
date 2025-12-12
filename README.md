@@ -63,7 +63,7 @@ Sentinel Pi es un sistema de ciberseguridad basado en Raspberry Pi que funciona 
 | ------------------------------- | ----------------------------------------------------- | -------------------------------------- |
 | Leslie Janet Aparicio Castro    | [leslie-aparicio](https://github.com/leslie-aparicio) | Documentadora                          |
 | Carlos Armando Aranda Hernández | [Carlicsus](https://github.com/Carlicsus)             | Desarrollador Backend                  |
-| José Alejandro Briones Arroyo   | [alexba2004](https://github.com/alexba2004)           | Desarrollador del Honeypot y DecSecOps |                 |
+| José Alejandro Briones Arroyo   | [alexba2004](https://github.com/alexba2004)           | Desarrollador del Honeypot y DecSecOps |  |
 | Jazziel Rodríguez López         | [JazzoLopez](https://github.com/JazzoLopez)           | Desarrollador Backend                  |
 
 ---
@@ -162,3 +162,59 @@ RNF05 – Mantenibilidad del Sistema
 10. Exportación de información
 <p align="justify">Como usuario, quiero descargar o compartir los reportes generados por la aplicación, para utilizarlos en reuniones, análisis personales o como respaldo documental.</p>
 
+---
+## Sketches
+
+Son dibujos rápidos y simples usados para plasmar ideas iniciales de pantallas, flujos o funciones antes de un diseño más formal. Se centran en la estructura y en probar ideas sin detalle visual.
+
+Características
+
+- Trazos libres.
+- Poca precisión.
+- Sin colores ni tipografías.
+- Enfoque funcional.
+- Creación rápida para explorar ideas.
+
+[Ver carpetas de sketches](mobile/ui/sketches/)
+
+## Wireframes
+
+Son representaciones en baja fidelidad que muestran la estructura y distribución de una pantalla. No tienen diseño visual final, solo bloques y jerarquía de contenido.
+
+Características
+
+- Base del diseño.
+- Enfocados en layout y navegación.
+- Sin estilo visual final.
+- Representación más ordenada que un sketch.
+
+[Ver carpetas de wireframes](mobile/ui/wireframes/)
+
+## Mockups
+
+Son diseños en alta fidelidad que muestran el aspecto visual casi final del producto. Incluyen colores, tipografías, tamaños y componentes detallados.
+
+Características
+
+- Apariencia final definida.
+- Precisión visual alta.
+- Útiles para revisiones y aprobación del diseño.
+- No son funcionales.
+
+[Ver carpetas de mockups](mobile/ui/mockups/)
+
+## Prototipo
+
+Es una versión interactiva del diseño donde se simulan flujos y navegación. Sirve para validar experiencia de usuario antes del desarrollo.
+
+Características
+
+- Simulación de interacciones.
+- Flujo navegable.
+- Permite pruebas de usabilidad.
+- No es código real.
+
+[Ver prototipo](mobile/ui/prototype/)
+
+## Enlaces Figma
+[Archivo Figma]([https://tu-url-figma](https://www.figma.com/design/3blQVC8gXMVDEy61NRoYdm/SentinelPi?node-id=1-63&t=APq8nAZ2vm2WbmwX-1))
