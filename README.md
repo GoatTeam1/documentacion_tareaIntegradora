@@ -238,8 +238,11 @@ Características
 
 ## API
 
-La API inicialmente fue desarrollada en Java, pero se decidió migrarla a Express con TypeScript por temas de optimización, simplicidad en el desarrollo y mejor manejo del entorno. Además, la implementación de seguridad por token resultó más directa y mantenible.  
-El servicio se desplegó en **Koyeb** debido a su facilidad de uso y a que ofrece un plan gratuito adecuado para este proyecto.
+La API del proyecto se desarrolló inicialmente en Java; sin embargo, durante el avance se tomó la decisión de migrarla a **Express con TypeScript**. El cambio respondió principalmente a criterios técnicos y de productividad: se buscó una implementación más ligera, con menor sobrecarga de configuración, ciclos de desarrollo más rápidos y un entorno más flexible para iterar conforme se ajustaban los requerimientos del sistema. TypeScript aportó además un beneficio importante en robustez, ya que el tipado estático ayuda a reducir errores comunes en tiempo de ejecución y facilita el mantenimiento del código a medida que el proyecto crece.
+
+Otro factor determinante fue la capa de seguridad. La implementación de autenticación y autorización mediante **tokens** resultó más directa y mantenible en este stack, permitiendo aplicar middleware para validación de credenciales, control de acceso a rutas y manejo centralizado de errores. Esto favorece una arquitectura más clara, donde la seguridad no se dispersa entre componentes y puede evolucionar de forma controlada conforme se agreguen nuevas funcionalidades o endpoints.
+
+En cuanto al despliegue, el servicio se alojó en **Koyeb**, principalmente por su facilidad de uso, su proceso de despliegue simplificado y la disponibilidad de un **plan gratuito** adecuado para las necesidades del proyecto. Esto permitió contar con un entorno accesible para pruebas y demostraciones, manteniendo la API disponible en la nube sin incurrir en costos iniciales, lo cual es coherente con el enfoque de accesibilidad y escalabilidad planteado para Sentinel Pi.
 
 [URL de la API](https://shared-peacock-goat-team-86189809.koyeb.app/)
 
