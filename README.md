@@ -234,7 +234,7 @@ Características
 ---
 
 ## Enlaces Figma
-[Archivo Figma]([https://tu-url-figma](https://www.figma.com/design/3blQVC8gXMVDEy61NRoYdm/SentinelPi?node-id=1-63&t=APq8nAZ2vm2WbmwX-1))
+[Archivo Figma](https://www.figma.com/design/3blQVC8gXMVDEy61NRoYdm/SentinelPi?node-id=0-1&p=f&t=IkLm11cB9iyT6rWW-0)
 
 ---
 
