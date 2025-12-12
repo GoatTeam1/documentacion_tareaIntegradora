@@ -194,7 +194,7 @@ Características
 
 ## Wireframes
 
-Son representaciones en baja fidelidad que muestran la estructura y distribución de una pantalla. No tienen diseño visual final, solo bloques y jerarquía de contenido.
+Los wireframes son representaciones en baja fidelidad que describen la estructura y distribución de una pantalla, enfocándose en la organización del contenido y en la jerarquía de información. Su función es definir “qué va dónde” antes de aplicar diseño visual, colores, tipografías o estilos definitivos. Normalmente se construyen con bloques, líneas y etiquetas, lo que permite visualizar de forma clara la composición de la interfaz y el flujo de navegación entre pantallas.
 
 Características
 
