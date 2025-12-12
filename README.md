@@ -75,7 +75,7 @@ Finalmente, el objetivo general busca que esta solución fortalezca de manera pr
 ### TABLA DE ROLES
 
 | Nombre                          | Usuario                                               | Puesto                                                   |
-| ------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------|
+| ------------------------------- | ----------------------------------------------------- | -------------------------------------------------------- |
 | Leslie Janet Aparicio Castro    | [leslie-aparicio](https://github.com/leslie-aparicio) | Documentadora                                            |
 | Carlos Armando Aranda Hernández | [Carlicsus](https://github.com/Carlicsus)             | Desarrollador Backend                                    |
 | José Alejandro Briones Arroyo   | [brionesutxj](https://github.com/brionesutxj)         | Lider de equipo / Desarrollador del Honeypot y DecSecOps |  |
@@ -267,4 +267,10 @@ Y como buen resultado de esto se logró el Primer Lugar en la 12va Feria de idea
 
 <p align="justify">Al final, Sentinel Pi no solo fue un proyecto escolar: fue una experiencia donde combiné conocimientos, práctica y trabajo colaborativo.</p> 
 
-##
+---
+Conclusión de Jazziel Rodríguez López – 220627
+<p align="justify">Este proyecto me permitió aplicar de forma práctica los conocimientos adquiridos durante mi formación. También reforzó la importancia de la ciberseguridad, un tema que requiere más cultura y atención debido al valor que hoy tienen los datos. </p>
+<p align="justify">Durante el desarrollo, el equipo aportó ideas y sugerencias que enriquecieron el resultado. La colaboración permitió avanzar de forma ordenada y solucionar los problemas que fueron surgiendo.</p>
+<p align="justify">Estoy satisfecho con el proyecto, ya que lo realizamos con dedicación e interés, integrando las tecnologías que consideramos adecuadas para prepararnos mejor para nuestra estadía profesional. Fue una experiencia útil tanto en lo técnico como en el trabajo en equipo.</p>
+
+---
