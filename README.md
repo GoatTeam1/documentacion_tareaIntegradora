@@ -207,7 +207,7 @@ Características
 
 ## Mockups
 
-Son diseños en alta fidelidad que muestran el aspecto visual casi final del producto. Incluyen colores, tipografías, tamaños y componentes detallados.
+Los mockups son diseños en alta fidelidad que representan con gran precisión cómo se verá el producto en su versión casi final. A diferencia de los wireframes, aquí ya se incorpora el lenguaje visual completo: colores, tipografías, tamaños, iconografía, estilos de botones, espaciados, componentes detallados y consistencia estética entre pantallas. Su objetivo es mostrar el resultado visual esperado antes de pasar a la implementación, reduciendo ambigüedades y alineando criterios entre las partes involucradas.
 
 Características
 
