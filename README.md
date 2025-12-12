@@ -220,7 +220,7 @@ Características
 
 ## Prototipo
 
-Es una versión interactiva del diseño donde se simulan flujos y navegación. Sirve para validar experiencia de usuario antes del desarrollo.
+Un prototipo es una versión interactiva del diseño en la que se simulan los flujos, pantallas y la navegación del sistema para representar cómo se comportaría el producto en uso real. A diferencia de un mockup estático, el prototipo permite “hacer clic”, moverse entre vistas, probar recorridos de usuario y evaluar si las acciones y transiciones son intuitivas. Su propósito es validar el funcionamiento desde la perspectiva del usuario antes de invertir esfuerzo en el desarrollo.
 
 Características
 
