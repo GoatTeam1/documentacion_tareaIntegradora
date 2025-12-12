@@ -274,3 +274,23 @@ Conclusión de Jazziel Rodríguez López – 220627
 <p align="justify">Estoy satisfecho con el proyecto, ya que lo realizamos con dedicación e interés, integrando las tecnologías que consideramos adecuadas para prepararnos mejor para nuestra estadía profesional. Fue una experiencia útil tanto en lo técnico como en el trabajo en equipo.</p>
 
 ---
+
+### Conclusión de José Alejandro Briones Arroyo — 220103
+
+<p align="justify">
+Sentinel Pi fue, para mí, una prueba real de que la ciberseguridad no se entiende solo con teoría: se entiende cuando diseñas, despliegas y observas lo que ocurre en un entorno que se comporta como el mundo real. Desarrollar el honeypot en Raspberry Pi y asumir el enfoque DevSecOps me obligó a pensar con criterio: cómo atraer actividad maliciosa sin comprometer la red, qué evidencia vale la pena capturar, cómo asegurar la integridad de los eventos y cómo transformar “intentos de ataque” en información útil para tomar decisiones.
+</p>
+
+<p align="justify">
+A nivel técnico, el proyecto dejó claro que una solución efectiva no tiene que ser costosa para ser sólida. La centralización de registros mediante una API más ligera (Express con TypeScript) y la visualización desde una Web UI/PWA nos permitió construir un flujo completo: captura → envío → almacenamiento → consulta → análisis. Más allá de “mostrar datos”, el valor está en la trazabilidad: identificar patrones, priorizar riesgos y entender qué servicios son más atacados, cuándo y cómo, para fortalecer configuraciones y reducir el tiempo de respuesta ante incidentes.
+</p>
+
+<p align="justify">
+En lo personal, liderar y coordinar el trabajo con el equipo fue igual de importante que el desarrollo. Hubo decisiones técnicas, cambios de rumbo y problemas que no se resolvieron a la primera, pero se resolvieron con comunicación, estructura y enfoque en resultados. El reconocimiento obtenido (Primer Lugar en la 12va Feria de idea de negocios) no lo veo como un cierre, sino como evidencia de que el proyecto tiene mérito y puede evolucionar.
+</p>
+
+<p align="justify">
+Concluyo que Sentinel Pi cumple con su propósito: es una primera línea de observación y detección accesible, escalable y educativa. De aquí en adelante, el camino lógico es fortalecer la parte analítica (métricas más finas, correlación y clasificación de eventos), endurecer aún más la seguridad operativa y formalizar el despliegue multi-dispositivo. Me quedo con algo muy claro: si no se mide, no se mejora; y este proyecto, precisamente, convierte los ataques en datos y los datos en mejoras.
+</p>
+
+---
