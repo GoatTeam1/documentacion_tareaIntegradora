@@ -274,8 +274,7 @@ Conclusión de Jazziel Rodríguez López – 220627
 <p align="justify">Estoy satisfecho con el proyecto, ya que lo realizamos con dedicación e interés, integrando las tecnologías que consideramos adecuadas para prepararnos mejor para nuestra estadía profesional. Fue una experiencia útil tanto en lo técnico como en el trabajo en equipo.</p>
 
 ---
-
-### Conclusión de José Alejandro Briones Arroyo — 220103
+Conclusión de José Alejandro Briones Arroyo - 220103
 
 <p align="justify">
 Sentinel Pi me dejó aprendizajes muy claros. Primero, que un proyecto se vuelve serio cuando lo haces pensando en cómo se va a usar en la vida real: tomar decisiones, asumir riesgos, documentar bien y no depender de “a mí me funciona”. También confirmé que la ciberseguridad no es solo detectar, es entender lo que está pasando y aprender de eso para mejorar.
