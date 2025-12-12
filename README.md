@@ -35,7 +35,16 @@ Sentinel Pi no solo busca detectar ataques, sino también convertirse en una her
 
 ### OBJETIVO GENERAL
 
-<p align="justify">Diseñar e implementar un sistema de seguridad pasiva basado en Raspberry Pi, que funcione como un honeypot para detectar y registrar intentos de intrusión en redes informáticas, proporcionando a las empresas e instituciones una interfaz web accesible para visualizar y analizar los intentos de ataque en tiempo real, con el fin de fortalecer sus medidas de ciberseguridad de manera proactiva.
+<p align="justify">
+Diseñar e implementar un sistema de seguridad pasiva basado en Raspberry Pi que opere como un honeypot inteligente para atraer, detectar y registrar intentos de intrusión dentro de redes informáticas, simulando de forma controlada servicios y vectores de ataque comúnmente utilizados. El sistema deberá capturar evidencia técnica relevante (por ejemplo: intentos de autenticación, escaneos, patrones de enumeración, explotación de vulnerabilidades y acciones sospechosas) con el propósito de generar trazabilidad y apoyar la toma de decisiones en materia de seguridad.
+</p>
+
+<p align="justify">
+Asimismo, el proyecto contempla el desarrollo de una plataforma centralizada que reciba, consolide y almacene los eventos recopilados por uno o múltiples dispositivos Raspberry Pi, garantizando integridad y disponibilidad de la información para su análisis. A través de una interfaz web accesible e intuitiva, el sistema permitirá visualizar y monitorear los intentos de ataque en tiempo real, identificar tendencias, priorizar riesgos y facilitar el análisis técnico mediante filtros, reportes y métricas que ayuden a comprender el comportamiento de los atacantes y la superficie de exposición de la red.
+</p>
+
+<p align="justify">
+Finalmente, el objetivo general busca que esta solución fortalezca de manera proactiva las medidas de ciberseguridad en empresas e instituciones, actuando como una primera capa de detección y observación que complemente otras estrategias de defensa. Con ello, se pretende reducir el tiempo de respuesta ante amenazas, mejorar el endurecimiento de configuraciones y fomentar una cultura preventiva basada en evidencia, accesible incluso para organizaciones con recursos limitados o sin equipos especializados dedicados exclusivamente a seguridad.
 </p>
 
 ---
