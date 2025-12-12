@@ -122,6 +122,7 @@ RF09 – Simulación de Servicios Vulnerables
 RF10 – Validación y Pruebas de Funcionamiento
 <p align="justify">El sistema debe ejecutarse en un entorno de pruebas controlado que permita simular diferentes escenarios de ataque para validar su correcto funcionamiento antes del despliegue final.</p>
 
+RF11 - Detección y Bloqueo de Direcciones IP Sospechosas
 <p align="justify"> El sistema debe permitir identificar direcciones IP con comportamiento sospechoso y aplicar mecanismos de bloqueo o restricción para evitar futuros intentos de intrusión desde dichas direcciones. </p>
 
 ---
@@ -143,6 +144,8 @@ RNF05 – Mantenibilidad del Sistema
 
 <p align="justify">El sistema debe estar desarrollado con módulos desacoplados para facilitar ampliaciones, y la API debe contar con documentación técnica generada automáticamente con Swagger.
 </p>
+
+RNF06 – Trazabilidad y Auditoría de Eventos de Seguridad
 
 <p align="justify"> El sistema debe garantizar la trazabilidad completa de los eventos registrados, permitiendo identificar origen, fecha, tipo de ataque y acciones asociadas para fines de auditoría. </p>
 
