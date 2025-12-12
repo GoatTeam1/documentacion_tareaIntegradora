@@ -218,3 +218,20 @@ Características
 
 ## Enlaces Figma
 [Archivo Figma]([https://tu-url-figma](https://www.figma.com/design/3blQVC8gXMVDEy61NRoYdm/SentinelPi?node-id=1-63&t=APq8nAZ2vm2WbmwX-1))
+
+---
+
+## API
+
+La API inicialmente fue desarrollada en Java, pero se decidió migrarla a Express con TypeScript por temas de optimización, simplicidad en el desarrollo y mejor manejo del entorno. Además, la implementación de seguridad por token resultó más directa y mantenible.  
+El servicio se desplegó en **Koyeb** debido a su facilidad de uso y a que ofrece un plan gratuito adecuado para este proyecto.
+
+[URL de la API](https://shared-peacock-goat-team-86189809.koyeb.app/)
+
+---
+
+## Web UI / Progressive Web App
+
+Se desarrolló una aplicación web en **Angular**, diseñada como una **PWA** para permitir instalación, uso offline limitado y una experiencia más integrada en dispositivos móviles.  
+
+[URL de la aplicación web](https://web-ui-jade-three.vercel.app/sign-in)
