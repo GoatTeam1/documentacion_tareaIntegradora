@@ -59,12 +59,12 @@ Sentinel Pi es un sistema de ciberseguridad basado en Raspberry Pi que funciona 
 
 ### TABLA DE ROLES
 
-| Nombre                          | Usuario                                               | Puesto                                 |
-| ------------------------------- | ----------------------------------------------------- | -------------------------------------- |
-| Leslie Janet Aparicio Castro    | [leslie-aparicio](https://github.com/leslie-aparicio) | Documentadora                          |
-| Carlos Armando Aranda Hernández | [Carlicsus](https://github.com/Carlicsus)             | Desarrollador Backend                  |
-| José Alejandro Briones Arroyo   | [brionesutxj](https://github.com/brionesutxj)         | Desarrollador del Honeypot y DecSecOps |  |
-| Jazziel Rodríguez López         | [JazzoLopez](https://github.com/JazzoLopez)           | Desarrollador Backend                  |
+| Nombre                          | Usuario                                               | Puesto                                                   |
+| ------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------|
+| Leslie Janet Aparicio Castro    | [leslie-aparicio](https://github.com/leslie-aparicio) | Documentadora                                            |
+| Carlos Armando Aranda Hernández | [Carlicsus](https://github.com/Carlicsus)             | Desarrollador Backend                                    |
+| José Alejandro Briones Arroyo   | [brionesutxj](https://github.com/brionesutxj)         | Lider de equipo / Desarrollador del Honeypot y DecSecOps |  |
+| Jazziel Rodríguez López         | [JazzoLopez](https://github.com/JazzoLopez)           | Desarrollador Backend                                    |
 
 ---
 ### DIAGRAMA DE GANTT
