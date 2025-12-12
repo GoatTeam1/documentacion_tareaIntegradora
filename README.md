@@ -285,3 +285,8 @@ En lo personal, reforcé disciplina y criterio técnico: priorizar lo importante
 </p>
 
 ---
+Conclusión de Carlos Armando Aranda Hernandez - 220526
+
+<p align="justify"> Participar en el desarrollo de Sentinel Pi me ayudo a reforzar mis conocimientos tecnicos adquiridos a lo largo de mi carrera universitaria, pero sober todo adquirir conocminetos para un futuro trabajo profecional </p> 
+<p align="justify"> Sentinel pi, permite ver el valor real de la ciberseguridad ya que me permitio ver como muchas personas que recien empiezan con un emprendimiento o empresa, realmente toda la parte de seguridad la dejan para el final. </p>
+
