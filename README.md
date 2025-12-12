@@ -124,8 +124,6 @@ RF10 – Validación y Pruebas de Funcionamiento
 
 ---
 ### REQUERIMIENTOS NO FUNCIONALES 
-<p align="justify"></p>
-<p align="justify"></p>
 
 RNF01 – Rendimiento del Sistema
 <p align="justify">El sistema debe procesar hasta 100 eventos por minuto mediante la API, soportar 20 conexiones simultáneas sin degradación significativa y garantizar que al menos el 85% de las respuestas se generen en menos de 1 segundo.</p>
@@ -180,7 +178,7 @@ RNF05 – Mantenibilidad del Sistema
 ---
 ## Sketches
 
-Son dibujos rápidos y simples usados para plasmar ideas iniciales de pantallas, flujos o funciones antes de un diseño más formal. Se centran en la estructura y en probar ideas sin detalle visual.
+<p align="justify">Son dibujos rápidos y simples usados para plasmar ideas iniciales de pantallas, flujos o funciones antes de un diseño más formal. Se centran en la estructura y en probar ideas sin detalle visual.</p>
 
 Características
 
@@ -192,9 +190,10 @@ Características
 
 [Ver carpetas de sketches](mobile/ui/sketches/)
 
+---
 ## Wireframes
 
-Los wireframes son representaciones en baja fidelidad que describen la estructura y distribución de una pantalla, enfocándose en la organización del contenido y en la jerarquía de información. Su función es definir “qué va dónde” antes de aplicar diseño visual, colores, tipografías o estilos definitivos. Normalmente se construyen con bloques, líneas y etiquetas, lo que permite visualizar de forma clara la composición de la interfaz y el flujo de navegación entre pantallas.
+<p align="justify">Los wireframes son representaciones en baja fidelidad que describen la estructura y distribución de una pantalla, enfocándose en la organización del contenido y en la jerarquía de información. Su función es definir “qué va dónde” antes de aplicar diseño visual, colores, tipografías o estilos definitivos. Normalmente se construyen con bloques, líneas y etiquetas, lo que permite visualizar de forma clara la composición de la interfaz y el flujo de navegación entre pantallas.</p>
 
 Características
 
@@ -205,9 +204,10 @@ Características
 
 [Ver carpetas de wireframes](mobile/ui/wireframes/)
 
+---
 ## Mockups
 
-Los mockups son diseños en alta fidelidad que representan con gran precisión cómo se verá el producto en su versión casi final. A diferencia de los wireframes, aquí ya se incorpora el lenguaje visual completo: colores, tipografías, tamaños, iconografía, estilos de botones, espaciados, componentes detallados y consistencia estética entre pantallas. Su objetivo es mostrar el resultado visual esperado antes de pasar a la implementación, reduciendo ambigüedades y alineando criterios entre las partes involucradas.
+<p align="justify">Los mockups son diseños en alta fidelidad que representan con gran precisión cómo se verá el producto en su versión casi final. A diferencia de los wireframes, aquí ya se incorpora el lenguaje visual completo: colores, tipografías, tamaños, iconografía, estilos de botones, espaciados, componentes detallados y consistencia estética entre pantallas. Su objetivo es mostrar el resultado visual esperado antes de pasar a la implementación, reduciendo ambigüedades y alineando criterios entre las partes involucradas.</p>
 
 Características
 
@@ -220,7 +220,7 @@ Características
 
 ## Prototipo
 
-Un prototipo es una versión interactiva del diseño en la que se simulan los flujos, pantallas y la navegación del sistema para representar cómo se comportaría el producto en uso real. A diferencia de un mockup estático, el prototipo permite “hacer clic”, moverse entre vistas, probar recorridos de usuario y evaluar si las acciones y transiciones son intuitivas. Su propósito es validar el funcionamiento desde la perspectiva del usuario antes de invertir esfuerzo en el desarrollo.
+<p align="justify">Un prototipo es una versión interactiva del diseño en la que se simulan los flujos, pantallas y la navegación del sistema para representar cómo se comportaría el producto en uso real. A diferencia de un mockup estático, el prototipo permite “hacer clic”, moverse entre vistas, probar recorridos de usuario y evaluar si las acciones y transiciones son intuitivas. Su propósito es validar el funcionamiento desde la perspectiva del usuario antes de invertir esfuerzo en el desarrollo.</p>
 
 Características
 
@@ -231,6 +231,8 @@ Características
 
 [Ver prototipo](mobile/ui/prototype/)
 
+---
+
 ## Enlaces Figma
 [Archivo Figma]([https://tu-url-figma](https://www.figma.com/design/3blQVC8gXMVDEy61NRoYdm/SentinelPi?node-id=1-63&t=APq8nAZ2vm2WbmwX-1))
 
@@ -238,11 +240,11 @@ Características
 
 ## API
 
-La API del proyecto se desarrolló inicialmente en Java; sin embargo, durante el avance se tomó la decisión de migrarla a **Express con TypeScript**. El cambio respondió principalmente a criterios técnicos y de productividad: se buscó una implementación más ligera, con menor sobrecarga de configuración, ciclos de desarrollo más rápidos y un entorno más flexible para iterar conforme se ajustaban los requerimientos del sistema. TypeScript aportó además un beneficio importante en robustez, ya que el tipado estático ayuda a reducir errores comunes en tiempo de ejecución y facilita el mantenimiento del código a medida que el proyecto crece.
+<p align="justify">La API del proyecto se desarrolló inicialmente en Java; sin embargo, durante el avance se tomó la decisión de migrarla a **Express con TypeScript**. El cambio respondió principalmente a criterios técnicos y de productividad: se buscó una implementación más ligera, con menor sobrecarga de configuración, ciclos de desarrollo más rápidos y un entorno más flexible para iterar conforme se ajustaban los requerimientos del sistema. TypeScript aportó además un beneficio importante en robustez, ya que el tipado estático ayuda a reducir errores comunes en tiempo de ejecución y facilita el mantenimiento del código a medida que el proyecto crece.</p>
 
-Otro factor determinante fue la capa de seguridad. La implementación de autenticación y autorización mediante **tokens** resultó más directa y mantenible en este stack, permitiendo aplicar middleware para validación de credenciales, control de acceso a rutas y manejo centralizado de errores. Esto favorece una arquitectura más clara, donde la seguridad no se dispersa entre componentes y puede evolucionar de forma controlada conforme se agreguen nuevas funcionalidades o endpoints.
+<p align="justify">Otro factor determinante fue la capa de seguridad. La implementación de autenticación y autorización mediante **tokens** resultó más directa y mantenible en este stack, permitiendo aplicar middleware para validación de credenciales, control de acceso a rutas y manejo centralizado de errores. Esto favorece una arquitectura más clara, donde la seguridad no se dispersa entre componentes y puede evolucionar de forma controlada conforme se agreguen nuevas funcionalidades o endpoints.</p>
 
-En cuanto al despliegue, el servicio se alojó en **Koyeb**, principalmente por su facilidad de uso, su proceso de despliegue simplificado y la disponibilidad de un **plan gratuito** adecuado para las necesidades del proyecto. Esto permitió contar con un entorno accesible para pruebas y demostraciones, manteniendo la API disponible en la nube sin incurrir en costos iniciales, lo cual es coherente con el enfoque de accesibilidad y escalabilidad planteado para Sentinel Pi.
+<p align="justify">En cuanto al despliegue, el servicio se alojó en **Koyeb**, principalmente por su facilidad de uso, su proceso de despliegue simplificado y la disponibilidad de un **plan gratuito** adecuado para las necesidades del proyecto. Esto permitió contar con un entorno accesible para pruebas y demostraciones, manteniendo la API disponible en la nube sin incurrir en costos iniciales, lo cual es coherente con el enfoque de accesibilidad y escalabilidad planteado para Sentinel Pi.</p>
 
 [URL de la API](https://shared-peacock-goat-team-86189809.koyeb.app/)
 
@@ -250,6 +252,8 @@ En cuanto al despliegue, el servicio se alojó en **Koyeb**, principalmente por 
 
 ## Web UI / Progressive Web App
 
-Se desarrolló una aplicación web en **Angular**, diseñada como una **PWA** para permitir instalación, uso offline limitado y una experiencia más integrada en dispositivos móviles.  
+<p align="justify">Se desarrolló una aplicación web en **Angular**, diseñada como una **PWA** para permitir instalación, uso offline limitado y una experiencia más integrada en dispositivos móviles. </p> 
 
 [URL de la aplicación web](https://web-ui-jade-three.vercel.app/sign-in)
+
+---
