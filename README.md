@@ -144,6 +144,8 @@ RNF05 – Mantenibilidad del Sistema
 <p align="justify">El sistema debe estar desarrollado con módulos desacoplados para facilitar ampliaciones, y la API debe contar con documentación técnica generada automáticamente con Swagger.
 </p>
 
+<p align="justify"> El sistema debe garantizar la trazabilidad completa de los eventos registrados, permitiendo identificar origen, fecha, tipo de ataque y acciones asociadas para fines de auditoría. </p>
+
 ---
 ### HISTORIAS DE USUARIO
 
