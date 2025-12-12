@@ -267,4 +267,4 @@ Y como buen resultado de esto se logró el Primer Lugar en la 12va Feria de idea
 
 <p align="justify">Al final, Sentinel Pi no solo fue un proyecto escolar: fue una experiencia donde combiné conocimientos, práctica y trabajo colaborativo.</p> 
 
-
+##
