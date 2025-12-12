@@ -16,13 +16,19 @@
 
 ### DESCRIPCION
 <p align="justify">
-Sentinel Pi es un sistema de ciberseguridad basado en Raspberry Pi que funciona como un honeypot inteligente, diseñado para la detección temprana de amenazas y el análisis de intentos de intrusión. Su objetivo es proporcionar una solución accesible, escalable y adaptable que permita a instituciones, empresas y organizaciones contar con una primera línea de defensa contra ciberataques.
+Sentinel Pi es un sistema de ciberseguridad basado en Raspberry Pi que funciona como un honeypot inteligente, orientado a la detección temprana de amenazas y al análisis de intentos de intrusión en entornos reales. Su objetivo es ofrecer una solución accesible, escalable y adaptable, capaz de integrarse en redes de instituciones educativas, empresas u organizaciones que requieren una primera línea de defensa preventiva frente a ciberataques, sin depender exclusivamente de infraestructura costosa o compleja de administrar.
 </p>
 
-<p align="justify"> La arquitectura del sistema se centra en la Raspberry Pi como dispositivo principal, simulando servicios vulnerables para atraer atacantes y recopilar datos de sus actividades. Estos registros son enviados a una API desarrollada en Spring Boot, que centraliza la información, la almacena en bases de datos seguras y permite el análisis posterior.
+<p align="justify">
+La arquitectura del sistema se centra en la Raspberry Pi como dispositivo principal, configurada para simular servicios y puntos de entrada comúnmente atacados, con el fin de atraer actividad maliciosa de manera controlada y registrar comportamientos relevantes. A diferencia de un monitoreo tradicional que solo identifica alertas generales, Sentinel Pi está diseñado para capturar trazas útiles: intentos de autenticación, comandos ejecutados, patrones de escaneo, explotación de vulnerabilidades y eventos anómalos. Estos registros se envían a una API desarrollada en Express utilizando Node, encargada de centralizar la información, validarla, almacenarla en bases de datos seguras y habilitar su consulta para análisis posterior.
 </p>
 
-<p align="justify"> Sentinel Pi no solo busca detectar ataques, sino también convertirse en una herramienta educativa y de investigación, brindando información sobre patrones de ataque, vectores de intrusión más utilizados y métodos de evasión empleados por ciberdelincuentes. Con esta propuesta, se fomenta una cultura de ciberseguridad más sólida, accesible y aplicada a escenarios reales, aportando valor tanto a pequeñas organizaciones como a instituciones de gran escala.
+<p align="justify">
+Además de actuar como mecanismo de detección, Sentinel Pi incorpora un enfoque de observabilidad y aprendizaje: al consolidar los datos se facilita identificar tendencias y correlaciones, como direcciones IP recurrentes, horarios de mayor actividad, servicios más atacados y tipos de técnicas utilizadas. Esto permite generar indicadores que pueden apoyar decisiones de seguridad, por ejemplo, fortalecer configuraciones, ajustar reglas de firewall, endurecer credenciales o priorizar parches. Asimismo, el sistema está pensado para crecer de forma modular, permitiendo desplegar múltiples Raspberry Pi en distintos puntos de una red y consolidarlas en la misma plataforma de análisis, incrementando la cobertura sin elevar significativamente el costo.
+</p>
+
+<p align="justify">
+Sentinel Pi no solo busca detectar ataques, sino también convertirse en una herramienta educativa y de investigación, útil para la formación práctica en ciberseguridad y para la generación de conocimiento a partir de eventos reales. Su implementación puede aportar información sobre patrones de ataque, vectores de intrusión más utilizados y métodos de evasión empleados por ciberdelincuentes, contribuyendo a la construcción de reportes, casos de estudio y ejercicios de laboratorio controlados. Con esta propuesta, se fomenta una cultura de ciberseguridad más sólida, basada en evidencia, prevención y mejora continua, fortaleciendo la capacidad de respuesta ante amenazas cada vez más frecuentes y sofisticadas.
 </p>
 
 ---
