@@ -249,7 +249,6 @@ Características
 [URL de la API](https://shared-peacock-goat-team-86189809.koyeb.app/)
 
 ---
-
 ## Web UI / Progressive Web App
 
 <p align="justify">Se desarrolló una aplicación web en **Angular**, diseñada como una **PWA** para permitir instalación, uso offline limitado y una experiencia más integrada en dispositivos móviles. </p> 
@@ -257,3 +256,15 @@ Características
 [URL de la aplicación web](https://web-ui-jade-three.vercel.app/sign-in)
 
 ---
+### CONCLUSIONES
+
+Conclusión de Leslie Janet Aparicio Castro 220256 
+
+<p align="justify">Sentinel Pi fue un proyecto que me ayudó a poner en práctica mis conocimientos y habilidades, sobre todo porque al final lo trabajamos como un proyecto integrador. </p> 
+
+<p align="justify">Trabajar con mi equipo también fue una parte importante. Aprendimos a dividir tareas, a comunicarnos mejor y a resolver problemas que no siempre tenían una solución inmediata.
+Y como buen resultado de esto se logró el Primer Lugar en la 12va Feria de idea de negocios, en la categoria: Innovación, Justicia y Alianzas. </p> 
+
+<p align="justify">Al final, Sentinel Pi no solo fue un proyecto escolar: fue una experiencia donde combiné conocimientos, práctica y trabajo colaborativo.</p> 
+
+
