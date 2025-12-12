@@ -122,6 +122,8 @@ RF09 – Simulación de Servicios Vulnerables
 RF10 – Validación y Pruebas de Funcionamiento
 <p align="justify">El sistema debe ejecutarse en un entorno de pruebas controlado que permita simular diferentes escenarios de ataque para validar su correcto funcionamiento antes del despliegue final.</p>
 
+<p align="justify"> El sistema debe permitir identificar direcciones IP con comportamiento sospechoso y aplicar mecanismos de bloqueo o restricción para evitar futuros intentos de intrusión desde dichas direcciones. </p>
+
 ---
 ### REQUERIMIENTOS NO FUNCIONALES 
 
