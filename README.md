@@ -236,7 +236,8 @@ Características
 - Permite pruebas de usabilidad.
 - No es código real.
 
-[Ver prototipo](mobile/ui/prototype/)
+
+[Ver prototipo](https://www.figma.com/design/3blQVC8gXMVDEy61NRoYdm/SentinelPi?node-id=5-2&t=FJuCeW0z365hcfhD-1)
 
 ---
 
